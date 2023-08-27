@@ -2,4 +2,4 @@
 Practice with kotlin.
 
 ## Prerequisites
-- [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/download/?section=windows)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/download/?section=windows)
